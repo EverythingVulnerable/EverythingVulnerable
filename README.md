@@ -10,7 +10,7 @@
 
 - 🔝 Our aim is to be in the list of top cyber security researchers of the whole world.
 
-- 💻 All of my projects are available <a href="https://github.com/EverythingVulnerable?tab=repositories">here</a>.
+- 💻 All of our projects and repositories are available <a href="https://github.com/EverythingVulnerable?tab=repositories">here</a>.
 <br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EverythingVulnerable&show_icons=true&theme=synthwave" alt="FrozenFlame" /> </p>
